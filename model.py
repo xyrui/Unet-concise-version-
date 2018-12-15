@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 15 21:09:50 2018
 
-@author: Administrator
+@author: Xyrui
 """
 import tensorflow as tf
 import numpy as np
