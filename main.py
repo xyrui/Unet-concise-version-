@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 15 22:18:30 2018
 
-@author: Administrator
+@author: Xyrui
 """
 from model import Unet
 import numpy as np
